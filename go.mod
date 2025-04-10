@@ -1,4 +1,4 @@
-module goonairplanes
+module goalandingpage
 
 go 1.21
 
